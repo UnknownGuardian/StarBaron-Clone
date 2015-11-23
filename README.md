@@ -3,7 +3,7 @@ AS3 prototype clone of StarBaron, a popular flash game.
 
 <a href="http://www.kongregate.com/games/alienpro/starbaron"> Play Starbaron</a> on Kongregate.com
 
-<a href="http://www.fastswf.com/SAJJF4s"> Play this Prototype</a> on FastSWF
+<a href="http://www.fastswf.com/BnJe6SM"> Play this Prototype</a> on FastSWF
 
 Screenshot of prototype:
 <img src="http://i.imgur.com/gMuqPtn.png">
