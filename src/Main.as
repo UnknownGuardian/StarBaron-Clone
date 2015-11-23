@@ -26,7 +26,7 @@
 			stage.addChild(new GameManager());
 			
 			SiteLock.registerStage(stage)
-			SiteLock.allowSites(["megaswf.com"]);
+			SiteLock.allowSites(["fastswf.com"]);
 			SiteLock.allowLocalPlay();
 			SiteLock.checkURL(true);
 		}
